@@ -1,4 +1,0 @@
-[
-  { "name": "Jikan · Top anime", "url": "https://api.jikan.moe/v4/top/anime" },
-  { "name": "Jikan · Airing now", "url": "https://api.jikan.moe/v4/seasons/now" }
-]
